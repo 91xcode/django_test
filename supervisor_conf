@@ -1,0 +1,5 @@
+[program:firebase]
+command=uwsgi --ini /home/nahao/firebase_platform/uwsgi_conf.ini
+directory=/home/nahao/firebase_platform
+startsecs=0
+
