@@ -1,3 +1,5 @@
+```
+
 Django项目：
 
 参考：https://code.ziqiangxuetang.com/django/django-views-urls.html
@@ -300,3 +302,6 @@ nginx error.log 提示没有权限打开某个文件
 
 
 
+
+
+```
